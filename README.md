@@ -52,7 +52,7 @@ A Postman collection is available in the root folder of the project, as an alter
 
 This project was bootstrapped with [https://github.com/udacity/cloud-developer/tree/master/course-04/project/c4-final-project-starter-code](https://github.com/udacity/cloud-developer/tree/master/course-04/project/c4-final-project-starter-code).
 
-# Backent URL
+# Backend URL
 https://dazyvw1tn7.execute-api.us-east-1.amazonaws.com/develop
 
 # Domain
